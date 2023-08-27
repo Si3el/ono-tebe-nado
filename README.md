@@ -51,7 +51,7 @@
 
 ### **Адрес проекта**
 
-Проект расположен на [GitHub](https://github.com/Si3el/ono-tebe-nado)
+Проект расположен на [GitHub](https://github.com/Si3el/ono-tebe-nado.git)
 
 ### **Планы**
 
