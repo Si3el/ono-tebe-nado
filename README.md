@@ -35,7 +35,7 @@
 ### Применяемые технологии
 <br>
 <div style="display: flex; justify-content: space-between">
-<img src='./images/technology.png' style="width:300px; border-radius: 30px">
+<img src='./images/for readme.png' style="width:300px; border-radius: 30px">
 
 * Grid
 * Flexbox
