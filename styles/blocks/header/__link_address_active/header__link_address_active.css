@@ -1,0 +1,7 @@
+.header__link_address_active, .footer__link_active {
+    
+    text-decoration: none;
+    border-bottom: 1px solid black;
+    
+    line-height: 1.35;
+}

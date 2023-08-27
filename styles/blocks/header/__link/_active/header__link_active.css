@@ -1,0 +1,12 @@
+.header__link_active {
+    border-bottom: 1px solid;
+    text-decoration: none;
+    cursor: pointer;
+    transition: transform 0.25s;
+}
+
+
+.header__link_active:hover{
+    text-decoration: none;
+    color:rgb(175, 117, 238);
+}

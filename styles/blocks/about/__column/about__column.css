@@ -1,0 +1,10 @@
+.about__column {
+    display: block;
+    padding: 0;
+    width: 430px;
+    min-height: auto;
+}
+
+.about__column:last-child {
+    flex-grow: 1;
+}

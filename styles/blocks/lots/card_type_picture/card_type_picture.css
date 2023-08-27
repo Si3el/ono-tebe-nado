@@ -1,0 +1,11 @@
+.card_type_picture {
+    background-image: url("/images/card-lot-03.jpg");
+    background-position: center;
+    background-size: cover;
+    aspect-ratio: 1.1;
+    transition: transform 0.25s;
+}
+
+.card_type_picture:hover {
+    transform: scale(1.006);
+}  

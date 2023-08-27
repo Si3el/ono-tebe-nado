@@ -1,0 +1,10 @@
+.header__link {
+    text-decoration: none;
+    display: inline-block;
+    padding-bottom: 1px;
+}
+
+
+.header__link:hover {
+    content: "вы здесь";
+}

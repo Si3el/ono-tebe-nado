@@ -1,0 +1,14 @@
+.cover__title {
+    font-size: 100px;
+    font-family: Raleway;
+    font-style: normal;
+    line-height: 100%;
+    padding-top: 173px;
+    color: #fff;
+    z-index: 11;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 30px;
+    display: flex;
+    flex-direction: column;
+}

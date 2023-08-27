@@ -1,0 +1,8 @@
+.lots__card-list {
+    list-style: none;
+    color: #fff;
+    display: flex;
+    gap: 25px;
+    flex-wrap: wrap;
+    padding: 27px 0 30px;
+}

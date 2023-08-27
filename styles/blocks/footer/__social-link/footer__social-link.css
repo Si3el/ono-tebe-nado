@@ -1,0 +1,9 @@
+.footer__social-link{
+    transition: transform 0.25s;
+}
+
+.footer__social-link:hover{
+    z-index: -1;
+    box-shadow: 4px 4px 3px 3px rgba(108, 18, 60, 0.2);
+    border-radius: 50%;
+}

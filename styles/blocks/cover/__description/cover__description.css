@@ -1,0 +1,9 @@
+.cover__description {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: end;
+    margin-top: 143px;
+    margin-right: 50px;
+    word-spacing: 17px;
+  }
