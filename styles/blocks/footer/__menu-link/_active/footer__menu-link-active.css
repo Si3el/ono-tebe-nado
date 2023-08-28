@@ -1,12 +1,1 @@
-.footer__menu-link_active {
-    border-bottom: 1px solid;
-    cursor: pointer;
-    transition: transform 0.25s;
-}
 
-
-.footer__menu-link_active:hover{
-    text-decoration: none;
-    color:rgb(175, 117, 238);
-    border-bottom: none;
-}

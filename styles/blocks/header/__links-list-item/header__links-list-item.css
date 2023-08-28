@@ -1,9 +1,0 @@
-/* .header__links-list-item:not(:last-child) {
-   padding-right: 31px;
-
-  }
-   */
-.header__links-list-item{
-   list-style: circle; 
-   padding-right: 32px;
-}
